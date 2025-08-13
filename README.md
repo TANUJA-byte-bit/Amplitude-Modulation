@@ -95,13 +95,14 @@ plot(t,s);
 
 
 Output Waveform
-<img width="915" height="1280" alt="image" src="https://github.com/user-attachments/assets/00024d77-d758-4058-a5d2-93d08ff2b8a7" />
 
+<img width="1914" height="1110" alt="T AC FIGG" src="https://github.com/user-attachments/assets/583facb5-d522-455c-b951-f21efd7767f7" />
 
 
 
 
 TABULATION:
+
 <img width="915" height="1280" alt="image" src="https://github.com/user-attachments/assets/cdcdbf9e-5c9b-47fa-acdd-a03840a8c57f" />
 
 
