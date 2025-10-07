@@ -103,7 +103,7 @@ Output Waveform
 
 TABULATION:
 
-<img width="915" height="1280" alt="image" src="https://github.com/user-attachments/assets/cdcdbf9e-5c9b-47fa-acdd-a03840a8c57f" />
+<img width="1255" height="1137" alt="image" src="https://github.com/user-attachments/assets/4e5542ed-ad37-43d5-be3e-7e292318a637" />
 
 
 
